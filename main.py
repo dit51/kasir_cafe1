@@ -59,7 +59,6 @@ def bayar():
         st.session_state.pesan = ('success', f'Pemabayaran Berhasil🤑 kembalian Rp {rupiah(kembalian)}')
         st.session_state.cart = {}
         st.session_state.uang = 0
-        st.snow()
 
 with st.sidebar :
     col1, col2, col3 = st.columns([1,2,1])
