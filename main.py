@@ -10,6 +10,7 @@ MENU = [
     {'id': 2, 'nama': 'Latte',          'harga': 25000, 'jenis': 'Minuman', 'kategori': 'Coffee',         'gambar': 'gambar/latte.png'},
     {'id': 3, 'nama': 'Matcha',      'harga': 18000, 'jenis': 'Minuman', 'kategori': 'Non-coffee',     'gambar': 'gambar/matcha.png'},
     {'id': 4, 'nama': 'Kentang Goreng', 'harga': 15000, 'jenis': 'Makanan', 'kategori': 'Makanan Ringan', 'gambar': 'gambar/kentang.png'},
+    {'id': 5, 'nama': 'Ayam penyet', 'harga': 15000, 'jenis': 'Makanan', 'kategori': 'Makanan Berat', 'gambar': 'gambar/ayam.png'}
 ]
 
 KATEGORI = {
